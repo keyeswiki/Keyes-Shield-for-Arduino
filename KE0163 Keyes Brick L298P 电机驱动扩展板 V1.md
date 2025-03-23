@@ -1,4 +1,4 @@
-# KE0163 Keyes Brick L298P 电机驱动扩展板 V1 红色 环保
+# KE0163 Keyes Brick L298P 电机驱动扩展板 V1 
 
 ![](media/image-20250317112722542.png)
 

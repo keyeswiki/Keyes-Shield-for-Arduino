@@ -1,4 +1,4 @@
-# KE1001 Keyes Brick Shield v1.0 传感器扩展板综合指南
+# KE1001 Keyes Brick Shield v1.0 传感器扩展板
 
 ![image-20250317112835410](media/image-20250317112835410.png)
 

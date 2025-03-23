@@ -1,5 +1,5 @@
 
-### KE0008 Keyes MEGA 2560 原型扩展板详细说明
+### KE0008 Keyes MEGA 2560 原型扩展板
 
 ![](media/image-20250312152731994.png)
 

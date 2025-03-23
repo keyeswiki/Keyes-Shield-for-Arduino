@@ -1,5 +1,5 @@
 
-# KE1004 Keyes Brick Shield v2.0 传感器扩展板综合指南
+# KE1004 Keyes Brick Shield v2.0 传感器扩展板
 
 ![Img](media/img-20250319195536.png)
 
